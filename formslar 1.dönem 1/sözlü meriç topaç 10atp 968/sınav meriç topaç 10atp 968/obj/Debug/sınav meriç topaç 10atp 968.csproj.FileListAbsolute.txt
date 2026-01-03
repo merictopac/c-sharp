@@ -1,0 +1,22 @@
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\bin\Debug\sınav meriç topaç 10atp 968.exe.config
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\bin\Debug\sınav meriç topaç 10atp 968.exe
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\bin\Debug\sınav meriç topaç 10atp 968.pdb
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.csproj.AssemblyReference.cache
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav_meriç_topaç_10atp_968.Form1.resources
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav_meriç_topaç_10atp_968.Form2.resources
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav_meriç_topaç_10atp_968.Properties.Resources.resources
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.csproj.GenerateResource.cache
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.csproj.CoreCompileInputs.cache
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.exe
+C:\Users\SINIF\Desktop\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.pdb
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\bin\Debug\sınav meriç topaç 10atp 968.exe.config
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\bin\Debug\sınav meriç topaç 10atp 968.exe
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\bin\Debug\sınav meriç topaç 10atp 968.pdb
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.csproj.AssemblyReference.cache
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav_meriç_topaç_10atp_968.Form1.resources
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav_meriç_topaç_10atp_968.Form2.resources
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav_meriç_topaç_10atp_968.Properties.Resources.resources
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.csproj.GenerateResource.cache
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.csproj.CoreCompileInputs.cache
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.exe
+D:\sınav meriç topaç 10atp 968\sınav meriç topaç 10atp 968\obj\Debug\sınav meriç topaç 10atp 968.pdb

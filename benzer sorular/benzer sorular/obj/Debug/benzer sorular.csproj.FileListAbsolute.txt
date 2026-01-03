@@ -1,0 +1,13 @@
+D:\c# USB\benzer sorular\benzer sorular\bin\Debug\benzer sorular.exe.config
+D:\c# USB\benzer sorular\benzer sorular\bin\Debug\benzer sorular.exe
+D:\c# USB\benzer sorular\benzer sorular\bin\Debug\benzer sorular.pdb
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer sorular.csproj.AssemblyReference.cache
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer_sorular.Form1.resources
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer_sorular.Properties.Resources.resources
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer sorular.csproj.GenerateResource.cache
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer sorular.csproj.CoreCompileInputs.cache
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer sorular.exe
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer sorular.pdb
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer_sorular.Form2.resources
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer_sorular.Form3.resources
+D:\c# USB\benzer sorular\benzer sorular\obj\Debug\benzer_sorular.Form4.resources

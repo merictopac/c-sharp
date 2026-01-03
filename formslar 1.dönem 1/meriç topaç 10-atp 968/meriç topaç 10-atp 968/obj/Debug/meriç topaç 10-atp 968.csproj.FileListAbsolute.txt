@@ -1,0 +1,10 @@
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç topaç 10-atp 968.csproj.AssemblyReference.cache
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç_topaç_10_atp_968.Form1.resources
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç_topaç_10_atp_968.Properties.Resources.resources
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç topaç 10-atp 968.csproj.GenerateResource.cache
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç topaç 10-atp 968.csproj.CoreCompileInputs.cache
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\bin\Debug\meriç topaç 10-atp 968.exe.config
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\bin\Debug\meriç topaç 10-atp 968.exe
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\bin\Debug\meriç topaç 10-atp 968.pdb
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç topaç 10-atp 968.exe
+D:\c# USB\meriç topaç 10-atp 968\meriç topaç 10-atp 968\obj\Debug\meriç topaç 10-atp 968.pdb

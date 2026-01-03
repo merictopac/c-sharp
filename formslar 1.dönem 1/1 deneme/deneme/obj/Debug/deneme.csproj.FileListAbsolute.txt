@@ -1,0 +1,18 @@
+D:\c# USB\deneme\deneme\bin\Debug\deneme.exe.config
+D:\c# USB\deneme\deneme\bin\Debug\deneme.exe
+D:\c# USB\deneme\deneme\bin\Debug\deneme.pdb
+D:\c# USB\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+D:\c# USB\deneme\deneme\obj\Debug\deneme.Form1.resources
+D:\c# USB\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+D:\c# USB\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+D:\c# USB\deneme\deneme\obj\Debug\deneme.exe
+D:\c# USB\deneme\deneme\obj\Debug\deneme.pdb
+D:\c# USB\1 deneme\deneme\bin\Debug\deneme.exe.config
+D:\c# USB\1 deneme\deneme\bin\Debug\deneme.exe
+D:\c# USB\1 deneme\deneme\bin\Debug\deneme.pdb
+D:\c# USB\1 deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+D:\c# USB\1 deneme\deneme\obj\Debug\deneme.Form1.resources
+D:\c# USB\1 deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+D:\c# USB\1 deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+D:\c# USB\1 deneme\deneme\obj\Debug\deneme.exe
+D:\c# USB\1 deneme\deneme\obj\Debug\deneme.pdb

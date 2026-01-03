@@ -1,0 +1,7 @@
+D:\c# USB\konsol deneme\konsol deneme\obj\Debug\konsol deneme.csproj.AssemblyReference.cache
+D:\c# USB\konsol deneme\konsol deneme\obj\Debug\konsol deneme.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol deneme\konsol deneme\bin\Debug\konsol deneme.exe.config
+D:\c# USB\konsol deneme\konsol deneme\bin\Debug\konsol deneme.exe
+D:\c# USB\konsol deneme\konsol deneme\bin\Debug\konsol deneme.pdb
+D:\c# USB\konsol deneme\konsol deneme\obj\Debug\konsol deneme.exe
+D:\c# USB\konsol deneme\konsol deneme\obj\Debug\konsol deneme.pdb

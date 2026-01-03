@@ -1,0 +1,15 @@
+D:\c# USB\7 while\7 while\bin\Debug\7 while.exe.config
+D:\c# USB\7 while\7 while\bin\Debug\7 while.exe
+D:\c# USB\7 while\7 while\bin\Debug\7 while.pdb
+D:\c# USB\7 while\7 while\obj\Debug\7 while.csproj.AssemblyReference.cache
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Form1.resources
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Properties.Resources.resources
+D:\c# USB\7 while\7 while\obj\Debug\7 while.csproj.GenerateResource.cache
+D:\c# USB\7 while\7 while\obj\Debug\7 while.csproj.CoreCompileInputs.cache
+D:\c# USB\7 while\7 while\obj\Debug\7 while.exe
+D:\c# USB\7 while\7 while\obj\Debug\7 while.pdb
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Form2.resources
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Form3.resources
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Form4.resources
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Form5.resources
+D:\c# USB\7 while\7 while\obj\Debug\_7_while.Form6.resources

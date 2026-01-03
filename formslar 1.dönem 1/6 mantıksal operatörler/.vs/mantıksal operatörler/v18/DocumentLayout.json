@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|d:\\c# usb\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|d:\\c# usb\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|d:\\c# usb\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|d:\\c# usb\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|d:\\c# usb\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4767C4B-D6C2-44B2-AC3E-41CC9F5CC65F}|mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler.csproj|solutionrelative:mant\u0131ksal operat\u00F6rler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form3.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form3.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form3.cs",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:03:37.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form3.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form3.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:03:17.877Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form2.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:03:15.62Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form1.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form1.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:03:10.282Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form12.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form12.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form12.cs",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form12.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:03:02.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form12.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form12.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form12.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form12.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form12.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form11.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form11.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form11.cs",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form11.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form10.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form10.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form10.cs",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form10.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form10.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form10.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form10.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form10.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Program.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Program.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Program.cs",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:03:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form11.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form11.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form11.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form11.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form11.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form9.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form9.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form9.cs",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form9.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form9.cs",
+              "RelativeDocumentMoniker": "mant\u0131ksal operat\u00F6rler\\Form9.cs",
+              "ToolTip": "D:\\c# USB\\6 mant\u0131ksal operat\u00F6rler\\mant\u0131ksal operat\u00F6rler\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "mant\u0131ksal operat\u00F6rler\\Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-18T19:03:02.523Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

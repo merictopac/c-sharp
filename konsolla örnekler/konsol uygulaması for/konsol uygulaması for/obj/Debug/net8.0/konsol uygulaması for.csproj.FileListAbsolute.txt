@@ -1,0 +1,14 @@
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\bin\Debug\net8.0\konsol uygulaması for.exe
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\bin\Debug\net8.0\konsol uygulaması for.deps.json
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\bin\Debug\net8.0\konsol uygulaması for.runtimeconfig.json
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\bin\Debug\net8.0\konsol uygulaması for.dll
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\bin\Debug\net8.0\konsol uygulaması for.pdb
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.AssemblyInfoInputs.cache
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.AssemblyInfo.cs
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.dll
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\refint\konsol uygulaması for.dll
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.pdb
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\konsol uygulaması for.genruntimeconfig.cache
+D:\c# USB\konsol uygulaması for\konsol uygulaması for\obj\Debug\net8.0\ref\konsol uygulaması for.dll

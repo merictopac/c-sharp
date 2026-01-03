@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|d:\\c# usb\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|d:\\c# usb\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|d:\\c# usb\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|d:\\c# usb\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|d:\\c# usb\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFCFCB0-D162-422A-9B71-BFFFC5569D0C}|1 bir boyutlu diziler\\1 bir boyutlu diziler.csproj|solutionrelative:1 bir boyutlu diziler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form3.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Form3.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form3.cs",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Form3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:22:04.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form3.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Form3.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:19:27.62Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Program.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Program.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Program.cs",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:04:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form2.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form2.cs",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Form2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:57:39.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form2.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:56:46.34Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form1.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Form1.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:53:08.656Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form1.cs",
+              "RelativeDocumentMoniker": "1 bir boyutlu diziler\\Form1.cs",
+              "ToolTip": "D:\\c# USB\\forms 1.2\\1 bir boyutlu diziler\\1 bir boyutlu diziler\\Form1.cs",
+              "RelativeToolTip": "1 bir boyutlu diziler\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:53:59.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

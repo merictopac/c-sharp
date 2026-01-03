@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\konsolla \u00F6rnekler\\konsol class static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C40156-6268-4113-A648-61C7DC9D8625}|konsol class static\\konsol class static.csproj|d:\\c# usb\\konsolla \u00F6rnekler\\konsol class static\\konsol class static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C40156-6268-4113-A648-61C7DC9D8625}|konsol class static\\konsol class static.csproj|solutionrelative:konsol class static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\konsolla \u00F6rnekler\\konsol class static\\konsol class static\\Program.cs",
+              "RelativeDocumentMoniker": "konsol class static\\Program.cs",
+              "ToolTip": "D:\\c# USB\\konsolla \u00F6rnekler\\konsol class static\\konsol class static\\Program.cs",
+              "RelativeToolTip": "konsol class static\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:09:59.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

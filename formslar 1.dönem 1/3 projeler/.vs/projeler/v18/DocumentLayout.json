@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\3 projeler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|D:\\c# USB\\3 projeler\\projeler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|D:\\c# USB\\3 projeler\\projeler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|D:\\c# USB\\3 projeler\\projeler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|D:\\c# USB\\3 projeler\\projeler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|d:\\c# usb\\3 projeler\\projeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50EA941-4E98-4E23-BC64-A81296FD6C8E}|projeler\\projeler.csproj|solutionrelative:projeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form8.cs",
+              "RelativeDocumentMoniker": "projeler\\Form8.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form8.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form8.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:02:06.868Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form7.cs",
+              "RelativeDocumentMoniker": "projeler\\Form7.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:02:04.6Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form6.cs",
+              "RelativeDocumentMoniker": "projeler\\Form6.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form6.cs",
+              "RelativeToolTip": "projeler\\Form6.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:02:02.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form6.cs",
+              "RelativeDocumentMoniker": "projeler\\Form6.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:02:01.041Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form5.cs",
+              "RelativeDocumentMoniker": "projeler\\Form5.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form5.cs",
+              "RelativeToolTip": "projeler\\Form5.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:57.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form5.cs",
+              "RelativeDocumentMoniker": "projeler\\Form5.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:56.455Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form4.cs",
+              "RelativeDocumentMoniker": "projeler\\Form4.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:53.751Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form3.cs",
+              "RelativeDocumentMoniker": "projeler\\Form3.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:51.867Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form2.cs",
+              "RelativeDocumentMoniker": "projeler\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:43.029Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form1.cs",
+              "RelativeDocumentMoniker": "projeler\\Form1.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:39.475Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Program.cs",
+              "RelativeDocumentMoniker": "projeler\\Program.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Program.cs",
+              "RelativeToolTip": "projeler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:54:25.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form10.cs",
+              "RelativeDocumentMoniker": "projeler\\Form10.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form10.cs",
+              "RelativeToolTip": "projeler\\Form10.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:54:25.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form10.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form10.cs",
+              "RelativeDocumentMoniker": "projeler\\Form10.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form10.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form10.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:54:25.706Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form9.cs",
+              "RelativeDocumentMoniker": "projeler\\Form9.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projeler\\Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:54:25.707Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "D:\\c# USB\\3 projeler\\projeler\\Form9.cs",
+              "RelativeDocumentMoniker": "projeler\\Form9.cs",
+              "ToolTip": "D:\\c# USB\\3 projeler\\projeler\\Form9.cs",
+              "RelativeToolTip": "projeler\\Form9.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:54:25.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

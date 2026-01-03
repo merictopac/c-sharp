@@ -1,0 +1,10 @@
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\bin\Debug\memocansınavhazırlık.exe.config
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\bin\Debug\memocansınavhazırlık.exe
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\bin\Debug\memocansınavhazırlık.pdb
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.csproj.AssemblyReference.cache
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.Form1.resources
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.Properties.Resources.resources
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.csproj.GenerateResource.cache
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.csproj.CoreCompileInputs.cache
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.exe
+D:\c# USB\memocansınavhazırlık\memocansınavhazırlık\obj\Debug\memocansınavhazırlık.pdb
