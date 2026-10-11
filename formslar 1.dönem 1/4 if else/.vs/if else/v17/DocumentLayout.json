@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\4if else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF96576E-0A36-401D-8D95-400BBC047A47}|if else\\if else.csproj|d:\\c# usb\\4if else\\if else\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF96576E-0A36-401D-8D95-400BBC047A47}|if else\\if else.csproj|solutionrelative:if else\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF96576E-0A36-401D-8D95-400BBC047A47}|if else\\if else.csproj|D:\\c# USB\\4if else\\if else\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF96576E-0A36-401D-8D95-400BBC047A47}|if else\\if else.csproj|solutionrelative:if else\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF96576E-0A36-401D-8D95-400BBC047A47}|if else\\if else.csproj|D:\\c# USB\\4if else\\if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF96576E-0A36-401D-8D95-400BBC047A47}|if else\\if else.csproj|solutionrelative:if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "D:\\c# USB\\4if else\\if else\\Form9.cs",
+              "RelativeDocumentMoniker": "if else\\Form9.cs",
+              "ToolTip": "D:\\c# USB\\4if else\\if else\\Form9.cs",
+              "RelativeToolTip": "if else\\Form9.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:14:08.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\4if else\\if else\\Form9.cs",
+              "RelativeDocumentMoniker": "if else\\Form9.cs",
+              "ToolTip": "D:\\c# USB\\4if else\\if else\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "if else\\Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:13:46.106Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\4if else\\if else\\Program.cs",
+              "RelativeDocumentMoniker": "if else\\Program.cs",
+              "ToolTip": "D:\\c# USB\\4if else\\if else\\Program.cs",
+              "RelativeToolTip": "if else\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:56:51.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\metot konsol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC42417-D828-407A-9969-17CE0F0FD720}|metot konsol\\metot konsol.csproj|d:\\c# usb\\metot konsol\\metot konsol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC42417-D828-407A-9969-17CE0F0FD720}|metot konsol\\metot konsol.csproj|solutionrelative:metot konsol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\metot konsol\\metot konsol\\Program.cs",
+              "RelativeDocumentMoniker": "metot konsol\\Program.cs",
+              "ToolTip": "D:\\c# USB\\metot konsol\\metot konsol\\Program.cs",
+              "RelativeToolTip": "metot konsol\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:07:36.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

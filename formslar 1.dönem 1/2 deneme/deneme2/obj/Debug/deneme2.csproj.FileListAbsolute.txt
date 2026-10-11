@@ -1,0 +1,60 @@
+D:\c# USB\deneme2\deneme2\bin\Debug\deneme2.exe.config
+D:\c# USB\deneme2\deneme2\bin\Debug\deneme2.exe
+D:\c# USB\deneme2\deneme2\bin\Debug\deneme2.pdb
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.csproj.AssemblyReference.cache
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form1.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.exe
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.pdb
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form2.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form3.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form4.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form5.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form6.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form7.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form8.resources
+E:\c# USB\deneme2\deneme2\bin\Debug\deneme2.exe.config
+E:\c# USB\deneme2\deneme2\bin\Debug\deneme2.exe
+E:\c# USB\deneme2\deneme2\bin\Debug\deneme2.pdb
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.csproj.AssemblyReference.cache
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form1.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form2.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form3.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form4.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form5.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form6.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form7.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form8.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.exe
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.pdb
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form9.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form10.resources
+D:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form11.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form10.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.Form11.resources
+E:\c# USB\deneme2\deneme2\obj\Debug\deneme2.form9.resources
+D:\c# USB\2 deneme\deneme2\bin\Debug\deneme2.exe.config
+D:\c# USB\2 deneme\deneme2\bin\Debug\deneme2.exe
+D:\c# USB\2 deneme\deneme2\bin\Debug\deneme2.pdb
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.csproj.AssemblyReference.cache
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form1.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form10.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form11.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form2.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form3.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form4.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form5.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form6.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form7.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Form8.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.form9.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.Properties.Resources.resources
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.csproj.GenerateResource.cache
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.csproj.CoreCompileInputs.cache
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.exe
+D:\c# USB\2 deneme\deneme2\obj\Debug\deneme2.pdb

@@ -1,0 +1,32 @@
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\bin\Debug\mantıksal operatörler.exe.config
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\bin\Debug\mantıksal operatörler.exe
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\bin\Debug\mantıksal operatörler.pdb
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.csproj.AssemblyReference.cache
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form1.resources
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form2.resources
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Properties.Resources.resources
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.csproj.GenerateResource.cache
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.csproj.CoreCompileInputs.cache
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.exe
+D:\c# USB\mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.pdb
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\bin\Debug\mantıksal operatörler.exe.config
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\bin\Debug\mantıksal operatörler.exe
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\bin\Debug\mantıksal operatörler.pdb
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.csproj.AssemblyReference.cache
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form1.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form2.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Properties.Resources.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.csproj.GenerateResource.cache
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.csproj.CoreCompileInputs.cache
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.exe
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal operatörler.pdb
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form3.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form4.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form5.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form6.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form7.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form8.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form9.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form10.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form11.resources
+D:\c# USB\6 mantıksal operatörler\mantıksal operatörler\obj\Debug\mantıksal_operatörler.Form12.resources

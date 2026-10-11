@@ -1,0 +1,11 @@
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\bin\Debug\8 hata ayıklama.exe.config
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\bin\Debug\8 hata ayıklama.exe
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\bin\Debug\8 hata ayıklama.pdb
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\8 hata ayıklama.csproj.AssemblyReference.cache
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\_8_hata_ayıklama.Form1.resources
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\_8_hata_ayıklama.Properties.Resources.resources
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\8 hata ayıklama.csproj.GenerateResource.cache
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\8 hata ayıklama.csproj.CoreCompileInputs.cache
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\8 hata ayıklama.exe
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\8 hata ayıklama.pdb
+D:\c# USB\8 hata ayıklama\8 hata ayıklama\obj\Debug\_8_hata_ayıklama.Form2.resources

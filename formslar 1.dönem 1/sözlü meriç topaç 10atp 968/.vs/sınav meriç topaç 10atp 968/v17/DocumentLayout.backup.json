@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|solutionrelative:s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|solutionrelative:s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|d:\\c# usb\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|solutionrelative:s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|solutionrelative:s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A3D7FE7-BA44-402B-A69C-C903F360C469}|s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968.csproj|solutionrelative:s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Program.cs",
+              "RelativeDocumentMoniker": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Program.cs",
+              "ToolTip": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Program.cs",
+              "RelativeToolTip": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:25:03.628Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs",
+              "RelativeDocumentMoniker": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs",
+              "RelativeToolTip": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:48:09.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs",
+              "RelativeDocumentMoniker": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:21:23.891Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs",
+              "RelativeDocumentMoniker": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs",
+              "ToolTip": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs",
+              "RelativeToolTip": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:36:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs",
+              "RelativeDocumentMoniker": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs",
+              "ToolTip": "D:\\c# USB\\s\u00F6zl\u00FC meri\u00E7 topa\u00E7 10atp 968\\s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "s\u0131nav meri\u00E7 topa\u00E7 10atp 968\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:20:34.785Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

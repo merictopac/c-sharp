@@ -1,0 +1,14 @@
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\bin\Debug\net8.0\konsol class static.exe
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\bin\Debug\net8.0\konsol class static.deps.json
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\bin\Debug\net8.0\konsol class static.runtimeconfig.json
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\bin\Debug\net8.0\konsol class static.dll
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\bin\Debug\net8.0\konsol class static.pdb
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.AssemblyInfoInputs.cache
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.AssemblyInfo.cs
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.csproj.CoreCompileInputs.cache
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.dll
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\refint\konsol class static.dll
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.pdb
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\konsol class static.genruntimeconfig.cache
+D:\c# USB\konsolla örnekler\konsol class static\konsol class static\obj\Debug\net8.0\ref\konsol class static.dll

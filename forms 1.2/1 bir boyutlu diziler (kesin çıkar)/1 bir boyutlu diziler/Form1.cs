@@ -52,7 +52,11 @@ namespace _1_bir_boyutlu_diziler
                     enYuksek = notlar[i];
                 }
             }
+<<<<<<< HEAD
             textBox3.Text=enYuksek.ToString();
+=======
+            textBox4.Text=enYuksek.ToString();
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -60,12 +64,20 @@ namespace _1_bir_boyutlu_diziler
             int enDUsuk = notlar[0];
             for (int i = 0; i < notlar.Length; i++)
             {
+<<<<<<< HEAD
                 if (notlar[i] <enDUsuk)
+=======
+                if (notlar[i] >enDUsuk)
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
                 {
                     enDUsuk = notlar[i];
                 }
             }
+<<<<<<< HEAD
             textBox4.Text = enDUsuk.ToString();
+=======
+            textBox5.Text = enDUsuk.ToString();
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -77,6 +89,7 @@ namespace _1_bir_boyutlu_diziler
                 toplam = toplam+notlar[i];
             }
             ortalama=toplam/notlar.Length;
+<<<<<<< HEAD
             textBox5.Text = ortalama.ToString();
         }
 
@@ -84,5 +97,10 @@ namespace _1_bir_boyutlu_diziler
         {
 
         }
+=======
+            textBox5.Text = toplam.ToString();
+        }
+      
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
     }
 }

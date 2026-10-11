@@ -50,7 +50,10 @@ namespace _1_bir_boyutlu_diziler
 
             label8.Text = "Last:" + sayilar.Last().ToString();
         }
+<<<<<<< HEAD
 
         
+=======
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
     }
 }

@@ -1,0 +1,12 @@
+D:\c# USB\5 switch-case\5 switch-case\bin\Debug\5 switch-case.exe.config
+D:\c# USB\5 switch-case\5 switch-case\bin\Debug\5 switch-case.exe
+D:\c# USB\5 switch-case\5 switch-case\bin\Debug\5 switch-case.pdb
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\5 switch-case.csproj.AssemblyReference.cache
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\_5_switch_case.Form1.resources
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\_5_switch_case.Properties.Resources.resources
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\5 switch-case.csproj.GenerateResource.cache
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\5 switch-case.csproj.CoreCompileInputs.cache
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\5 switch-case.exe
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\5 switch-case.pdb
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\_5_switch_case.Form2.resources
+D:\c# USB\5 switch-case\5 switch-case\obj\Debug\_5_switch_case.Form3.resources

@@ -1,0 +1,14 @@
+D:\c# USB\metot konsol\metot konsol\bin\Debug\net8.0\metot konsol.exe
+D:\c# USB\metot konsol\metot konsol\bin\Debug\net8.0\metot konsol.deps.json
+D:\c# USB\metot konsol\metot konsol\bin\Debug\net8.0\metot konsol.runtimeconfig.json
+D:\c# USB\metot konsol\metot konsol\bin\Debug\net8.0\metot konsol.dll
+D:\c# USB\metot konsol\metot konsol\bin\Debug\net8.0\metot konsol.pdb
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.AssemblyInfoInputs.cache
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.AssemblyInfo.cs
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.csproj.CoreCompileInputs.cache
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.dll
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\refint\metot konsol.dll
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.pdb
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\metot konsol.genruntimeconfig.cache
+D:\c# USB\metot konsol\metot konsol\obj\Debug\net8.0\ref\metot konsol.dll

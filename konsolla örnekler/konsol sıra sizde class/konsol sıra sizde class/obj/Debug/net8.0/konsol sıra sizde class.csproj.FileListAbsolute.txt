@@ -1,0 +1,14 @@
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.AssemblyInfoInputs.cache
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.AssemblyInfo.cs
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\bin\Debug\net8.0\konsol sıra sizde class.exe
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\bin\Debug\net8.0\konsol sıra sizde class.deps.json
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\bin\Debug\net8.0\konsol sıra sizde class.runtimeconfig.json
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\bin\Debug\net8.0\konsol sıra sizde class.dll
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\bin\Debug\net8.0\konsol sıra sizde class.pdb
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.dll
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\refint\konsol sıra sizde class.dll
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.pdb
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\konsol sıra sizde class.genruntimeconfig.cache
+D:\c# USB\konsol sıra sizde class\konsol sıra sizde class\obj\Debug\net8.0\ref\konsol sıra sizde class.dll

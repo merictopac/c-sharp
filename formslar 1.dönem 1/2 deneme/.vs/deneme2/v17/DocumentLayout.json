@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\2 deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|D:\\c# USB\\2 deneme\\deneme2\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|d:\\c# usb\\2 deneme\\deneme2\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|D:\\c# USB\\2 deneme\\deneme2\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|D:\\c# USB\\2 deneme\\deneme2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFB88ED-31AF-4243-A976-18F2E3824C56}|deneme2\\deneme2.csproj|solutionrelative:deneme2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form2.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form2.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:13.456Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form3.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form3.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:12.637Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form4.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form4.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:11.141Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form6.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form6.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:10.46Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form7.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form7.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:09.468Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form8.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form8.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form8.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form8.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form8.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:08.668Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form12.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form12.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form12.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form12.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form12.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:45:23.473Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form11.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form11.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form11.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form11.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form11.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:30:33.203Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form10.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form10.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form10.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form10.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\Form10.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:02.481Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\form9.cs",
+              "RelativeDocumentMoniker": "deneme2\\form9.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "deneme2\\form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:48:07.142Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Program.cs",
+              "RelativeDocumentMoniker": "deneme2\\Program.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Program.cs",
+              "RelativeToolTip": "deneme2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:46:43.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "D:\\c# USB\\2 deneme\\deneme2\\Form11.cs",
+              "RelativeDocumentMoniker": "deneme2\\Form11.cs",
+              "ToolTip": "D:\\c# USB\\2 deneme\\deneme2\\Form11.cs",
+              "RelativeToolTip": "deneme2\\Form11.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:45:41.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

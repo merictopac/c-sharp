@@ -1,0 +1,28 @@
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.exe
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.deps.json
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.runtimeconfig.json
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.dll
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.pdb
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.AssemblyInfoInputs.cache
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.AssemblyInfo.cs
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.dll
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\refint\konsol üçgen hesaplama.dll
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.pdb
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.genruntimeconfig.cache
+C:\Users\SINIF\source\repos\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\ref\konsol üçgen hesaplama.dll
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.exe
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.deps.json
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.runtimeconfig.json
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.dll
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\bin\Debug\net8.0\konsol üçgen hesaplama.pdb
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.AssemblyInfoInputs.cache
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.AssemblyInfo.cs
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.dll
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\refint\konsol üçgen hesaplama.dll
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.pdb
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\konsol üçgen hesaplama.genruntimeconfig.cache
+D:\c# USB\konsol üçgen hesaplama\konsol üçgen hesaplama\obj\Debug\net8.0\ref\konsol üçgen hesaplama.dll

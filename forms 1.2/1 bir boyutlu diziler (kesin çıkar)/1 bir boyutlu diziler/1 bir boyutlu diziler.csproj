@@ -22,7 +22,11 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD
     <IntermediateOutputPath>C:\Users\Meriç\AppData\Local\Temp\vs8AF0.tmp\Debug\</IntermediateOutputPath>
+=======
+    <IntermediateOutputPath>C:\Users\SINIF\AppData\Local\Temp\vsE6CD.tmp\Debug\</IntermediateOutputPath>
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,7 +36,11 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD
     <IntermediateOutputPath>C:\Users\Meriç\AppData\Local\Temp\vs8AF0.tmp\Release\</IntermediateOutputPath>
+=======
+    <IntermediateOutputPath>C:\Users\SINIF\AppData\Local\Temp\vsE6CD.tmp\Release\</IntermediateOutputPath>
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

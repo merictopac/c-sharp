@@ -1,0 +1,14 @@
+D:\c# USB\konsolll\konsolll\bin\Debug\net8.0\konsolll.exe
+D:\c# USB\konsolll\konsolll\bin\Debug\net8.0\konsolll.deps.json
+D:\c# USB\konsolll\konsolll\bin\Debug\net8.0\konsolll.runtimeconfig.json
+D:\c# USB\konsolll\konsolll\bin\Debug\net8.0\konsolll.dll
+D:\c# USB\konsolll\konsolll\bin\Debug\net8.0\konsolll.pdb
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.AssemblyInfoInputs.cache
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.AssemblyInfo.cs
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.csproj.CoreCompileInputs.cache
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.dll
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\refint\konsolll.dll
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.pdb
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\konsolll.genruntimeconfig.cache
+D:\c# USB\konsolll\konsolll\obj\Debug\net8.0\ref\konsolll.dll

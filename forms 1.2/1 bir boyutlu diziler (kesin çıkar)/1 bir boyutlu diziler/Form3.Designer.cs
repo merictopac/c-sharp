@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ﻿using System;
 
 namespace _1_bir_boyutlu_diziler
+=======
+﻿namespace _1_bir_boyutlu_diziler
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
 {
     partial class Form3
     {
@@ -158,17 +162,23 @@ namespace _1_bir_boyutlu_diziler
             this.Controls.Add(this.listBox1);
             this.Name = "Form3";
             this.Text = "Form3";
+<<<<<<< HEAD
             this.Load += new System.EventHandler(this.Form3_Load);
+=======
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
+<<<<<<< HEAD
         private void Form3_Load(object sender, EventArgs e)
         {
             throw new NotImplementedException();
         }
 
+=======
+>>>>>>> 9c2edc11ac176e8787008a9558f1dfa2556d6731
         #endregion
 
         private System.Windows.Forms.ListBox listBox1;

@@ -1,0 +1,14 @@
+D:\c# USB\konsol class 3\konsol class 3\bin\Debug\net8.0\konsol class 3.exe
+D:\c# USB\konsol class 3\konsol class 3\bin\Debug\net8.0\konsol class 3.deps.json
+D:\c# USB\konsol class 3\konsol class 3\bin\Debug\net8.0\konsol class 3.runtimeconfig.json
+D:\c# USB\konsol class 3\konsol class 3\bin\Debug\net8.0\konsol class 3.dll
+D:\c# USB\konsol class 3\konsol class 3\bin\Debug\net8.0\konsol class 3.pdb
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.AssemblyInfoInputs.cache
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.AssemblyInfo.cs
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.dll
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\refint\konsol class 3.dll
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.pdb
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\konsol class 3.genruntimeconfig.cache
+D:\c# USB\konsol class 3\konsol class 3\obj\Debug\net8.0\ref\konsol class 3.dll

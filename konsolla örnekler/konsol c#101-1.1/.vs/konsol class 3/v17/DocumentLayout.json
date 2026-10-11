@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# USB\\konsol class 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208A30EA-208A-4854-8E47-4C5558D3C800}|konsol class 3\\konsol class 3.csproj|d:\\c# usb\\konsol class 3\\konsol class 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208A30EA-208A-4854-8E47-4C5558D3C800}|konsol class 3\\konsol class 3.csproj|solutionrelative:konsol class 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# USB\\konsol class 3\\konsol class 3\\Program.cs",
+              "RelativeDocumentMoniker": "konsol class 3\\Program.cs",
+              "ToolTip": "D:\\c# USB\\konsol class 3\\konsol class 3\\Program.cs",
+              "RelativeToolTip": "konsol class 3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:08:09.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

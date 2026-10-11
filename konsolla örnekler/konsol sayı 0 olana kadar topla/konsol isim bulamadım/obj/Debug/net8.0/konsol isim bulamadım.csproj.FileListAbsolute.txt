@@ -1,0 +1,14 @@
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\bin\Debug\net8.0\konsol isim bulamadım.exe
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\bin\Debug\net8.0\konsol isim bulamadım.deps.json
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\bin\Debug\net8.0\konsol isim bulamadım.runtimeconfig.json
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\bin\Debug\net8.0\konsol isim bulamadım.dll
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\bin\Debug\net8.0\konsol isim bulamadım.pdb
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.AssemblyInfoInputs.cache
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.AssemblyInfo.cs
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.dll
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\refint\konsol isim bulamadım.dll
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.pdb
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\konsol isim bulamadım.genruntimeconfig.cache
+D:\c# USB\konsol isim bulamadım\konsol isim bulamadım\obj\Debug\net8.0\ref\konsol isim bulamadım.dll

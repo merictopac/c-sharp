@@ -1,0 +1,14 @@
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\bin\Debug\net8.0\konsol classlı toplama.exe
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\bin\Debug\net8.0\konsol classlı toplama.deps.json
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\bin\Debug\net8.0\konsol classlı toplama.runtimeconfig.json
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\bin\Debug\net8.0\konsol classlı toplama.dll
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\bin\Debug\net8.0\konsol classlı toplama.pdb
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.AssemblyInfoInputs.cache
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.AssemblyInfo.cs
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.csproj.CoreCompileInputs.cache
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.dll
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\refint\konsol classlı toplama.dll
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.pdb
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\konsol classlı toplama.genruntimeconfig.cache
+D:\c# USB\konsol classlı toplama\konsol classlı toplama\obj\Debug\net8.0\ref\konsol classlı toplama.dll
